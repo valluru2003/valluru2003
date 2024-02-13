@@ -1,15 +1,16 @@
-# Sai Balaji Valluru
+# Hi there! 👋 I'm  Sai Balaji Valluru
 
 ## Contact
 
-- Phone: 7993392546
-- Email: vallurusaibalaji@Gmail.Com
+- 📧 Email: vallurusaibalaji@Gmail.Com
+- 🔗 LinkedIn:https://www.linkedin.com/in/sai-balaji-valluru-2a0038285/
+  
 
 ## Career Objective
-
+👨‍💻  Python Enthusiast | Machine Learning Practitioner
 A Dedicated Data Science Student with a B.Sc. In Data Science Proficiency In Python And Machine Learning, And Data Visualization Skills. Passionate About Continuous Learning, Identifying Trends, And Contributing to Professional Growth.
 
-## Skills
+## 🚀 Skills:
 
 ### Soft Skills
 - Communication Skills.
@@ -25,7 +26,7 @@ A Dedicated Data Science Student with a B.Sc. In Data Science Proficiency In Pyt
 - SQL
 - Ms Excel
 
-## Training And Certification
+## 📜 Training And Certifications:
 
 - **3-Day National Workshop on Python**
   Conducted By Manac Infotech. Vt
