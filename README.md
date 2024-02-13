@@ -8,6 +8,7 @@
 
 ## Career Objective
 👨‍💻  Python Enthusiast | Machine Learning Practitioner
+
 A Dedicated Data Science Student with a B.Sc. In Data Science Proficiency In Python And Machine Learning, And Data Visualization Skills. Passionate About Continuous Learning, Identifying Trends, And Contributing to Professional Growth.
 
 ## 🚀 Skills:
